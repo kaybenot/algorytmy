@@ -1,0 +1,10 @@
+^C:\USERS\MINEAS\DESKTOP\STUDIA\ALGORYTMY\Z4\BUILD\CMAKEFILES\E9AA737D4F7F7F360B454649D96FC703\GENERATE.STAMP.RULE
+setlocal
+E:\CMake\bin\cmake.exe -SC:/Users/MineAS/Desktop/studia/algorytmy/Z4 -BC:/Users/MineAS/Desktop/studia/algorytmy/Z4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/MineAS/Desktop/studia/algorytmy/Z4/build/my_program.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

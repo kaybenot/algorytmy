@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/Users/MineAS/Desktop/studia/algorytmy/Z1/CMakeLists.txt
+C:/Users/MineAS/Desktop/studia/algorytmy/Z1/build/CMakeFiles/3.21.3/CMakeCCompiler.cmake
+C:/Users/MineAS/Desktop/studia/algorytmy/Z1/build/CMakeFiles/3.21.3/CMakeCXXCompiler.cmake
+C:/Users/MineAS/Desktop/studia/algorytmy/Z1/build/CMakeFiles/3.21.3/CMakeRCCompiler.cmake
+C:/Users/MineAS/Desktop/studia/algorytmy/Z1/build/CMakeFiles/3.21.3/CMakeSystem.cmake
+E:/CMake/share/cmake-3.21/Modules/CMakeCInformation.cmake
+E:/CMake/share/cmake-3.21/Modules/CMakeCXXInformation.cmake
+E:/CMake/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake
+E:/CMake/share/cmake-3.21/Modules/CMakeGenericSystem.cmake
+E:/CMake/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake
+E:/CMake/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake
+E:/CMake/share/cmake-3.21/Modules/CMakeRCInformation.cmake
+E:/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake
+E:/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake
+E:/CMake/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+E:/CMake/share/cmake-3.21/Modules/Compiler/MSVC-C.cmake
+E:/CMake/share/cmake-3.21/Modules/Compiler/MSVC-CXX.cmake
+E:/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-C.cmake
+E:/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-CXX.cmake
+E:/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC.cmake
+E:/CMake/share/cmake-3.21/Modules/Platform/Windows.cmake
+E:/CMake/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake

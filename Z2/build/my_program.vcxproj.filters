@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MineAS\Desktop\studia\algorytmy\Z2\src\tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MineAS\Desktop\studia\algorytmy\Z2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B9478ED1-992F-333E-814B-E2BBB9AD36BC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

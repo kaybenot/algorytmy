@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MineAS\Desktop\studia\algorytmy\Z6\build\CMakeFiles\87de3c10ef8756f19feb77c873498ca7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{94F9A9C0-C957-306F-AB52-A4E017D8E749}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

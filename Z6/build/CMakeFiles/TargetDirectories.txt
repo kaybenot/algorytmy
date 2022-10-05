@@ -1,0 +1,3 @@
+C:/Users/MineAS/Desktop/studia/algorytmy/Z6/build/CMakeFiles/my_program.dir
+C:/Users/MineAS/Desktop/studia/algorytmy/Z6/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/MineAS/Desktop/studia/algorytmy/Z6/build/CMakeFiles/ZERO_CHECK.dir
